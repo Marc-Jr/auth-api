@@ -1,0 +1,6 @@
+# Ignore environment variable file with secrets
+.env
+
+# Ignore Rust build output folder
+/target
+
